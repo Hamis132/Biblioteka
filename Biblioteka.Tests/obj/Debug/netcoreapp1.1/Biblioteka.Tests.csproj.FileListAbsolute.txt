@@ -1,0 +1,15 @@
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests\bin\Debug\netcoreapp1.1\Biblioteka.Tests.deps.json
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests\bin\Debug\netcoreapp1.1\Biblioteka.Tests.runtimeconfig.json
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests\bin\Debug\netcoreapp1.1\Biblioteka.Tests.runtimeconfig.dev.json
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests\bin\Debug\netcoreapp1.1\Biblioteka.Tests.dll
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests\bin\Debug\netcoreapp1.1\Biblioteka.Tests.pdb
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests\bin\Debug\netcoreapp1.1\Biblioteka.Core.dll
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests\bin\Debug\netcoreapp1.1\Biblioteka.Infrastructure.dll
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests\bin\Debug\netcoreapp1.1\Biblioteka.Core.pdb
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests\bin\Debug\netcoreapp1.1\Biblioteka.Infrastructure.pdb
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests\obj\Debug\netcoreapp1.1\Biblioteka.Tests.AssemblyInfo.cs
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests\obj\Debug\netcoreapp1.1\Biblioteka.Tests.dll
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests\obj\Debug\netcoreapp1.1\Biblioteka.Tests.pdb

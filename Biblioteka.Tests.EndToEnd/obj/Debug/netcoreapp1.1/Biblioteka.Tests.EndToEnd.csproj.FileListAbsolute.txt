@@ -1,0 +1,17 @@
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests.EndToEnd\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests.EndToEnd\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests.EndToEnd\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests.EndToEnd\bin\Debug\netcoreapp1.1\Biblioteka.Tests.EndToEnd.deps.json
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests.EndToEnd\bin\Debug\netcoreapp1.1\Biblioteka.Tests.EndToEnd.runtimeconfig.json
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests.EndToEnd\bin\Debug\netcoreapp1.1\Biblioteka.Tests.EndToEnd.runtimeconfig.dev.json
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests.EndToEnd\bin\Debug\netcoreapp1.1\Biblioteka.Api.dll
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests.EndToEnd\bin\Debug\netcoreapp1.1\Biblioteka.Core.dll
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests.EndToEnd\bin\Debug\netcoreapp1.1\Biblioteka.Infrastructure.dll
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests.EndToEnd\bin\Debug\netcoreapp1.1\Biblioteka.Api.pdb
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests.EndToEnd\bin\Debug\netcoreapp1.1\Biblioteka.Infrastructure.pdb
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests.EndToEnd\bin\Debug\netcoreapp1.1\Biblioteka.Core.pdb
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests.EndToEnd\obj\Debug\netcoreapp1.1\Biblioteka.Tests.EndToEnd.AssemblyInfo.cs
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests.EndToEnd\obj\Debug\netcoreapp1.1\Biblioteka.Tests.EndToEnd.dll
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests.EndToEnd\obj\Debug\netcoreapp1.1\Biblioteka.Tests.EndToEnd.pdb
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests.EndToEnd\bin\Debug\netcoreapp1.1\Biblioteka.Tests.EndToEnd.dll
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Tests.EndToEnd\bin\Debug\netcoreapp1.1\Biblioteka.Tests.EndToEnd.pdb

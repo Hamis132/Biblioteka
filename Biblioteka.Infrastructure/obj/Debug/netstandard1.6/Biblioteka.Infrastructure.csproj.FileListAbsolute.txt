@@ -1,0 +1,8 @@
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Infrastructure\bin\Debug\netstandard1.6\Biblioteka.Infrastructure.deps.json
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Infrastructure\bin\Debug\netstandard1.6\Biblioteka.Infrastructure.dll
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Infrastructure\bin\Debug\netstandard1.6\Biblioteka.Infrastructure.pdb
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Infrastructure\bin\Debug\netstandard1.6\Biblioteka.Core.dll
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Infrastructure\bin\Debug\netstandard1.6\Biblioteka.Core.pdb
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Infrastructure\obj\Debug\netstandard1.6\Biblioteka.Infrastructure.AssemblyInfo.cs
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Infrastructure\obj\Debug\netstandard1.6\Biblioteka.Infrastructure.dll
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Infrastructure\obj\Debug\netstandard1.6\Biblioteka.Infrastructure.pdb

@@ -1,0 +1,6 @@
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Core\bin\Debug\netstandard1.6\Biblioteka.Core.deps.json
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Core\bin\Debug\netstandard1.6\Biblioteka.Core.dll
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Core\bin\Debug\netstandard1.6\Biblioteka.Core.pdb
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Core\obj\Debug\netstandard1.6\Biblioteka.Core.AssemblyInfo.cs
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Core\obj\Debug\netstandard1.6\Biblioteka.Core.dll
+C:\Users\pawel\Desktop\Biblioteka\Biblioteka.Core\obj\Debug\netstandard1.6\Biblioteka.Core.pdb

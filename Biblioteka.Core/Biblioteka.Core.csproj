@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+   <AssemblyName>Biblioteka.Core</AssemblyName>
+  <PackageId>Biblioteka.Core</PackageId>
+  <NetStandardImplicitPackageVersion>1.6.1</NetStandardImplicitPackageVersion>
+    <TargetFramework>netstandard1.6</TargetFramework>
+  </PropertyGroup>
+
+</Project>
+
