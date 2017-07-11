@@ -8,7 +8,10 @@
     <PackageTargetFallback>$(PackageTargetFallback);dnxcore50</PackageTargetFallback>
     <RuntimeFrameworkVersion>1.1.1</RuntimeFrameworkVersion>
   </PropertyGroup>
-  
+  <ItemGroup>
+    <Content Include="nlog.config" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="appsettings.json" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="../Biblioteka.Api/Biblioteka.Api.csproj" />
     <ProjectReference Include="../Biblioteka.Infrastructure/Biblioteka.Infrastructure.csproj" />

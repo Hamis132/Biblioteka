@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v1.1",
-    "signature": "31eec8311750210313c6006557ee6bd3d363079b"
+    "signature": "36a086738b9c91b810f834830f13c73b294529b8"
   },
   "compilationOptions": {},
   "targets": {
@@ -37,7 +37,7 @@
           "lib/netstandard1.1/Autofac.Extensions.DependencyInjection.dll": {}
         }
       },
-      "automapper/6.0.2": {
+      "automapper/6.1.1": {
         "dependencies": {
           "System.Collections.Specialized": "4.3.0",
           "System.ComponentModel.TypeConverter": "4.3.0"
@@ -1411,7 +1411,7 @@
       },
       "biblioteka.api/1.0.0": {
         "dependencies": {
-          "AutoMapper": "6.0.2",
+          "AutoMapper": "6.1.1",
           "Autofac": "4.5.0",
           "Autofac.Extensions.DependencyInjection": "4.0.0",
           "Biblioteka.Infrastructure": "1.0.0",
@@ -1443,7 +1443,7 @@
       },
       "biblioteka.infrastructure/1.0.0": {
         "dependencies": {
-          "AutoMapper": "6.0.2",
+          "AutoMapper": "6.1.1",
           "Autofac": "4.5.0",
           "Biblioteka.Core": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "1.1.1",
@@ -1481,12 +1481,12 @@
       "path": "autofac.extensions.dependencyinjection/4.0.0",
       "hashPath": "autofac.extensions.dependencyinjection.4.0.0.nupkg.sha512"
     },
-    "automapper/6.0.2": {
+    "automapper/6.1.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-uI4uPyibgP4+2zn21fVqy0ep+eYeB5IcfjanyUESj+F0qcrOYpAW4iH2+xKET0vfhgJn4U1c4xN3stKUhygTmQ==",
-      "path": "automapper/6.0.2",
-      "hashPath": "automapper.6.0.2.nupkg.sha512"
+      "sha512": "sha512-A+6PAblvzmkXPS20nFBQJvlNSW5oEdyfN5+cxT/Du35fTNyuP5pNDXT64KT/jBgxt7CPduOM0Y7oLnNe0E5IXg==",
+      "path": "automapper/6.1.1",
+      "hashPath": "automapper.6.1.1.nupkg.sha512"
     },
     "dotnet-test-nunit/3.4.0-beta-3": {
       "type": "package",

@@ -1,13 +1,14 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v1.1",
-    "signature": "53553a2da192147a520c35ae311f43b3e8125c3f"
+    "signature": "344fd1588104a3c5c8a1b7f646276a91fe777ead"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v1.1": {
       "biblioteka.tests/1.0.0": {
         "dependencies": {
+          "AutoMapper": "6.1.1",
           "Biblioteka.Core": "1.0.0",
           "Biblioteka.Infrastructure": "1.0.0",
           "FluentAssertions": "4.19.0",
@@ -26,7 +27,7 @@
           "lib/netstandard1.1/Autofac.dll": {}
         }
       },
-      "automapper/6.0.2": {
+      "automapper/6.1.1": {
         "dependencies": {
           "System.Collections.Specialized": "4.3.0",
           "System.ComponentModel.TypeConverter": "4.3.0"
@@ -998,7 +999,7 @@
       },
       "biblioteka.infrastructure/1.0.0": {
         "dependencies": {
-          "AutoMapper": "6.0.2",
+          "AutoMapper": "6.1.1",
           "Autofac": "4.5.0",
           "Biblioteka.Core": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "1.1.1",
@@ -1029,12 +1030,12 @@
       "path": "autofac/4.5.0",
       "hashPath": "autofac.4.5.0.nupkg.sha512"
     },
-    "automapper/6.0.2": {
+    "automapper/6.1.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-uI4uPyibgP4+2zn21fVqy0ep+eYeB5IcfjanyUESj+F0qcrOYpAW4iH2+xKET0vfhgJn4U1c4xN3stKUhygTmQ==",
-      "path": "automapper/6.0.2",
-      "hashPath": "automapper.6.0.2.nupkg.sha512"
+      "sha512": "sha512-A+6PAblvzmkXPS20nFBQJvlNSW5oEdyfN5+cxT/Du35fTNyuP5pNDXT64KT/jBgxt7CPduOM0Y7oLnNe0E5IXg==",
+      "path": "automapper/6.1.1",
+      "hashPath": "automapper.6.1.1.nupkg.sha512"
     },
     "castle.core/4.0.0": {
       "type": "package",
